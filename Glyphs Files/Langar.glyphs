@@ -1,10 +1,4 @@
 {
-DisplayStrings = (
-/adiShakti,
-"/eematra-gurmukhi",
-"/aamatra-gurmukhi",
-"/aimatra-gurmukhi"
-);
 copyright = "Copyright \U00A9 2015 by Alessia Mazzarella. All rights reserved.";
 date = "2015-07-07 13:59:33 +0000";
 designer = "Alessia Mazzarella";
