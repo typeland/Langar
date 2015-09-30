@@ -18584,7 +18584,7 @@ unicode = 00F6;
 },
 {
 glyphname = ograve;
-lastChange = "2015-09-28 16:27:34 +0000";
+lastChange = "2015-09-30 17:14:13 +0000";
 layers = (
 {
 components = (
@@ -18598,14 +18598,14 @@ transform = "{1, 0, 0, 1, -78, 0}";
 );
 layerId = "B08EA6CB-0345-4FE8-BF44-53271D6C1876";
 name = Regular;
-width = 531;
+width = 480;
 }
 );
 unicode = 00F2;
 },
 {
 glyphname = ohungarumlaut;
-lastChange = "2015-09-28 16:27:34 +0000";
+lastChange = "2015-09-30 17:14:13 +0000";
 layers = (
 {
 components = (
@@ -18619,14 +18619,14 @@ transform = "{1, 0, 0, 1, 54, 0}";
 );
 layerId = "B08EA6CB-0345-4FE8-BF44-53271D6C1876";
 name = Regular;
-width = 531;
+width = 480;
 }
 );
 unicode = 0151;
 },
 {
 glyphname = omacron;
-lastChange = "2015-09-28 16:27:34 +0000";
+lastChange = "2015-09-30 17:14:13 +0000";
 layers = (
 {
 components = (
@@ -18640,7 +18640,7 @@ transform = "{1, 0, 0, 1, -35, 0}";
 );
 layerId = "B08EA6CB-0345-4FE8-BF44-53271D6C1876";
 name = Regular;
-width = 531;
+width = 480;
 }
 );
 unicode = 014D;
@@ -18659,7 +18659,7 @@ unicode = 00F8;
 },
 {
 glyphname = otilde;
-lastChange = "2015-09-28 16:27:34 +0000";
+lastChange = "2015-09-30 17:14:13 +0000";
 layers = (
 {
 components = (
@@ -18672,7 +18672,7 @@ name = tildecomb;
 );
 layerId = "B08EA6CB-0345-4FE8-BF44-53271D6C1876";
 name = Regular;
-width = 531;
+width = 480;
 }
 );
 unicode = 00F5;
