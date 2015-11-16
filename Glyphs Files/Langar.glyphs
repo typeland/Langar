@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+""
+);
 classes = (
 {
 code = "braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen guillemetleft guillemetright guilsinglleft guilsinglright questiondown exclamdown";
@@ -596,17 +599,16 @@ code = "script gur2;\012sub halant-gurmukhi ya-gurmukhi by ya-gurmukhi.post;\012
 name = pstf;
 },
 {
-code = "sub @Punctuation' @Gurmukhi by @CasePunctuation;\012sub @Gurmukhi @Punctuation' by @CasePunctuation; \012  ";
+code = "sub @Punctuation' @Gurmukhi by @CasePunctuation;\012sub @Gurmukhi @Punctuation' by @CasePunctuation; \012script guru;\012language PAN;\012\011sub aumatra-gurmukhi bindi-gurmukhi nga-gurmukhi' aumatra-gurmukhi by nga-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi tta-gurmukhi' aumatra-gurmukhi by tta-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ttha-gurmukhi' aumatra-gurmukhi by ttha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi nna-gurmukhi' aumatra-gurmukhi by nna-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi na-gurmukhi' aumatra-gurmukhi by na-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi pha-gurmukhi' aumatra-gurmukhi by pha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi bha-gurmukhi' aumatra-gurmukhi by bha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ra-gurmukhi' aumatra-gurmukhi by ra-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi la-gurmukhi' aumatra-gurmukhi by la-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ha-gurmukhi' aumatra-gurmukhi by ha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi rra-gurmukhi' aumatra-gurmukhi by rra-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi fa-gurmukhi' aumatra-gurmukhi by fa-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ta-gurmukhi' aumatra-gurmukhi by ta-gurmukhi.long;\012  ";
 name = rclt;
 },
 {
-code = "sub [o oacute ocircumflex odieresis ograve ohungarumlaut omacron otilde]' [f i idotless iacute icircumflex idieresis igrave ij iacute_j.loclNLD imacron j jdotless m n nacute ncaron ncommaaccent eng ntilde o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde p r racute rcaron rcommaaccent t tbar tcaron tcedilla tcommaaccent u uacute ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring v w x y yacute ydieresis f_f f_f_i f_f_l f_i f_l ] by [o.calt oacute.calt ocircumflex.calt odieresis.calt ograve.calt ohungarumlaut.calt omacron.calt otilde.calt];\012sub [o oacute ocircumflex odieresis ograve ohungarumlaut omacron otilde]' [comma ellipsis period underscore space nbspace thinspace asterisk hyphen emdash endash] by [o.fina oacute.fina ocircumflex.fina odieresis.fina ograve.fina ohungarumlaut.fina omacron.fina otilde.fina];\012sub @Punctuation' @Uppercase @Lowercase by @Punctuation;\012sub @Lowercase @Punctuation' @Uppercase  by @Punctuation;\012sub @Punctuation' @LiningFigures by @CasePunctuation;\012sub @LiningFigures @Punctuation' by @CasePunctuation;\012sub @Punctuation' @Uppercase by @CasePunctuation;\012sub @Uppercase @Punctuation' by @CasePunctuation; \012sub T' [b h k l hbar hdotbelow kcommaaccent kdotbelow lacute lcaron lcommaaccent ldot ldotbelow lslash lmacrondotbelow lmacronbelow thorn i j ij iogonek] by T.alt;\012sub Tbar' [b h k l hbar hdotbelow kcommaaccent kdotbelow lacute lcaron lcommaaccent ldot ldotbelow lslash lmacrondotbelow lmacronbelow thorn i j ij iogonek] by Tbar.alt;\012sub imatra-gurmukhi' [ra-gurmukhi ha-gurmukhi] by imatra-gurmukhi.alt;\012sub @Punctuation' @Gurmukhi by @CasePunctuation;\012sub @Gurmukhi @Punctuation' by @CasePunctuation; \012\012lookup extra {\012script guru;\012language PAN;\012\011sub aumatra-gurmukhi bindi-gurmukhi nga-gurmukhi' aumatra-gurmukhi by nga-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi tta-gurmukhi' aumatra-gurmukhi by tta-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ttha-gurmukhi' aumatra-gurmukhi by ttha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi nna-gurmukhi' aumatra-gurmukhi by nna-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi na-gurmukhi' aumatra-gurmukhi by na-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi pha-gurmukhi' aumatra-gurmukhi by pha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi bha-gurmukhi' aumatra-gurmukhi by bha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ra-gurmukhi' aumatra-gurmukhi by ra-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi la-gurmukhi' aumatra-gurmukhi by la-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ha-gurmukhi' aumatra-gurmukhi by ha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi rra-gurmukhi' aumatra-gurmukhi by rra-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi fa-gurmukhi' aumatra-gurmukhi by fa-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ta-gurmukhi' aumatra-gurmukhi by ta-gurmukhi.long;\012\012\011\012} extra;\012";
+code = "sub [o oacute ocircumflex odieresis ograve ohungarumlaut omacron otilde]' [f i idotless iacute icircumflex idieresis igrave ij iacute_j.loclNLD imacron j jdotless m n nacute ncaron ncommaaccent eng ntilde o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde p r racute rcaron rcommaaccent t tbar tcaron tcedilla tcommaaccent u uacute ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring v w x y yacute ydieresis f_f f_f_i f_f_l f_i f_l ] by [o.calt oacute.calt ocircumflex.calt odieresis.calt ograve.calt ohungarumlaut.calt omacron.calt otilde.calt];\012sub [o oacute ocircumflex odieresis ograve ohungarumlaut omacron otilde]' [comma ellipsis period underscore space nbspace thinspace asterisk hyphen emdash endash] by [o.fina oacute.fina ocircumflex.fina odieresis.fina ograve.fina ohungarumlaut.fina omacron.fina otilde.fina];\012sub @Punctuation' @Uppercase @Lowercase by @Punctuation;\012sub @Lowercase @Punctuation' @Uppercase  by @Punctuation;\012sub @Punctuation' @LiningFigures by @CasePunctuation;\012sub @LiningFigures @Punctuation' by @CasePunctuation;\012sub @Punctuation' @Uppercase by @CasePunctuation;\012sub @Uppercase @Punctuation' by @CasePunctuation; \012sub T' [b h k l hbar hdotbelow kcommaaccent kdotbelow lacute lcaron lcommaaccent ldot ldotbelow lslash lmacrondotbelow lmacronbelow thorn i j ij iogonek] by T.alt;\012sub Tbar' [b h k l hbar hdotbelow kcommaaccent kdotbelow lacute lcaron lcommaaccent ldot ldotbelow lslash lmacrondotbelow lmacronbelow thorn i j ij iogonek] by Tbar.alt;\012sub imatra-gurmukhi' [ra-gurmukhi ha-gurmukhi] by imatra-gurmukhi.alt;\012sub @Punctuation' @Gurmukhi by @CasePunctuation;\012sub @Gurmukhi @Punctuation' by @CasePunctuation; \012lookup extra {\012script guru;\012language PAN;\012\011sub aumatra-gurmukhi bindi-gurmukhi nga-gurmukhi' aumatra-gurmukhi by nga-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi tta-gurmukhi' aumatra-gurmukhi by tta-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ttha-gurmukhi' aumatra-gurmukhi by ttha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi nna-gurmukhi' aumatra-gurmukhi by nna-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi na-gurmukhi' aumatra-gurmukhi by na-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi pha-gurmukhi' aumatra-gurmukhi by pha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi bha-gurmukhi' aumatra-gurmukhi by bha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ra-gurmukhi' aumatra-gurmukhi by ra-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi la-gurmukhi' aumatra-gurmukhi by la-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ha-gurmukhi' aumatra-gurmukhi by ha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi rra-gurmukhi' aumatra-gurmukhi by rra-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi fa-gurmukhi' aumatra-gurmukhi by fa-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ta-gurmukhi' aumatra-gurmukhi by ta-gurmukhi.long;\012\012\011\012} extra;\012\012";
 name = calt;
-notes = "sub @Punctuation' @Gurmukhi by @CasePunctuation;\012sub @Gurmukhi @Punctuation' by @CasePunctuation; \012\012\012lookup extra {\012script guru;\012language PAN;\012\011sub aumatra-gurmukhi bindi-gurmukhi nga-gurmukhi' aumatra-gurmukhi by nga-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi tta-gurmukhi' aumatra-gurmukhi by tta-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ttha-gurmukhi' aumatra-gurmukhi by ttha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi nna-gurmukhi' aumatra-gurmukhi by nna-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi na-gurmukhi' aumatra-gurmukhi by na-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi pha-gurmukhi' aumatra-gurmukhi by pha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi bha-gurmukhi' aumatra-gurmukhi by bha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ra-gurmukhi' aumatra-gurmukhi by ra-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi la-gurmukhi' aumatra-gurmukhi by la-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ha-gurmukhi' aumatra-gurmukhi by ha-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi rra-gurmukhi' aumatra-gurmukhi by rra-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi fa-gurmukhi' aumatra-gurmukhi by fa-gurmukhi.long;\012\011sub aumatra-gurmukhi bindi-gurmukhi ta-gurmukhi' aumatra-gurmukhi by ta-gurmukhi.long;\012\012\011\012} extra;\012";
+notes = "sub @Punctuation' @Gurmukhi by @CasePunctuation;\012sub @Gurmukhi @Punctuation' by @CasePunctuation; \012";
 },
 {
 code = "script gur2;\012sub tippi-gurmukhi bindi-gurmukhi by tippibindi-gurmukhi;\012script guru;\012sub tippi-gurmukhi bindi-gurmukhi by tippibindi-gurmukhi;\012";
-disabled = 1;
 name = abvs;
 notes = "script gur2;\012sub eematra-gurmukhi bindi-gurmukhi by eematrabindi-gurmukhi;\012sub aimatra-gurmukhi bindi-gurmukhi by aimatrabindi-gurmukhi;\012sub oomatra-gurmukhi bindi-gurmukhi by oomatrabindi-gurmukhi;\012sub aumatra-gurmukhi bindi-gurmukhi by aumatrabindi-gurmukhi;\012sub tippi-gurmukhi bindi-gurmukhi by tippibindi-gurmukhi;\012script guru;\012sub eematra-gurmukhi bindi-gurmukhi by eematrabindi-gurmukhi;\012sub aimatra-gurmukhi bindi-gurmukhi by aimatrabindi-gurmukhi;\012sub oomatra-gurmukhi bindi-gurmukhi by oomatrabindi-gurmukhi;\012sub aumatra-gurmukhi bindi-gurmukhi by aumatrabindi-gurmukhi;\012sub tippi-gurmukhi bindi-gurmukhi by tippibindi-gurmukhi;\012sub tippi-gurmukhi bindi-gurmukhi by tippibindi-gurmukhi;\012";
 },
@@ -653,7 +655,6 @@ name = case;
 {
 automatic = 1;
 code = "sub o by o.fina;\012sub oacute by oacute.fina;\012sub ocircumflex by ocircumflex.fina;\012sub odieresis by odieresis.fina;\012sub ograve by ograve.fina;\012sub ohungarumlaut by ohungarumlaut.fina;\012sub omacron by omacron.fina;\012sub otilde by otilde.fina;\012";
-disabled = 1;
 name = fina;
 },
 {
@@ -678,9 +679,9 @@ name = ss01;
 notes = "Name: Simple o";
 },
 {
-code = "sub dha-gurmukhi aumatra-gurmukhi bindi-gurmukhi na-gurmukhi by dha-gurmukhi aumatra-gurmukhi bindi-gurmukhi headline-gurmukhi01 na-gurmukhi;";
-disabled = 1;
+code = "";
 name = ss02;
+notes = "sub dha-gurmukhi aumatra-gurmukhi bindi-gurmukhi na-gurmukhi by dha-gurmukhi aumatra-gurmukhi bindi-gurmukhi headline-gurmukhi01 na-gurmukhi;";
 },
 {
 code = "\011@numerators = [ zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr ];\012\012\011@denominators = [ zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom ];\012\012\011@figures = [ zero one two three four five six seven eight nine ];\012\012\011lookup percent {\012\011sub zero [slash fraction divisionslash] zero by percent;\012\011sub zero [slash fraction divisionslash] zero zero by perthousand;\012\011} percent;\012\011lookup FractionBar {\012\011     ignore sub slash\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash';\012\011     ignore sub slash'\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash;\012\011     ignore sub slash\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash';\012\011     ignore sub slash'\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash;\012\011     ignore sub slash\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash';\012\011     ignore sub slash'\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash;\012\011     ignore sub slash\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash';\012\011     ignore sub slash'\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash;\012\011     ignore sub slash\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash';\012\011     ignore sub slash'\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash;\012\011     ignore sub slash\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash';\012\011     ignore sub slash'\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash;\012\011     ignore sub slash\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash';\012\011     ignore sub slash'\012\011         @figures\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash;\012\011     ignore sub slash\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash';\012\011     ignore sub slash'\012\011         @figures\012\011         @figures\012\011         @figures\012\011         slash;\012\011     ignore sub slash\012\011         @figures\012\011         @figures\012\011         slash';\012\011     ignore sub slash'\012\011         @figures\012\011         @figures\012\011         slash;\012\011     ignore sub slash\012\011         @figures\012\011         slash';\012\011     ignore sub slash'\012\011         @figures\012\011         slash;\012\011     sub @figures slash' @figures by fraction;\012\011} FractionBar;\012\012\011lookup Numerator1 {\012\011     sub @figures'\012\011     fraction by @numerators;\012\011} Numerator1;\012\012\011lookup Numerator2 {\012\011     sub @figures'\012\011     @numerators\012\011     fraction by @numerators;\012\011} Numerator2;\012\012\011lookup Numerator3 {\012\011     sub @figures'\012\011     @numerators\012\011     @numerators\012\011     fraction by @numerators;\012\011} Numerator3;\012\012\011lookup Numerator4 {\012\011     sub @figures'\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     fraction by @numerators;\012\011} Numerator4;\012\012\011lookup Numerator5 {\012\011     sub @figures'\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     fraction by @numerators;\012\011} Numerator5;\012\012\011lookup Numerator6 {\012\011     sub @figures'\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     fraction by @numerators;\012\011} Numerator6;\012\012\011lookup Numerator7 {\012\011     sub @figures'\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     fraction by @numerators;\012\011} Numerator7;\012\012\011lookup Numerator8 {\012\011     sub @figures'\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     fraction by @numerators;\012\011} Numerator8;\012\012\011lookup Numerator9 {\012\011     sub @figures'\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     fraction by @numerators;\012\011} Numerator9;\012\012\011lookup Numerator10 {\012\011     sub @figures'\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     @numerators\012\011     fraction by @numerators;\012\011} Numerator10;\012\012\011lookup Denominator {\012\011     sub [fraction @denominators]\012\011     @figures' by @denominators;\012\011} Denominator;\012\012\011sub @figures space' @numerators by thinspace;\012\012\011# Vulgar fractions\012\011sub one.numr fraction two.dnom by onehalf;\012\011sub one.numr fraction three.dnom by onethird;\012\011sub two.numr fraction three.dnom by twothirds;\012\011sub one.numr fraction four.dnom by onequarter;\012\011sub three.numr fraction four.dnom by threequarters;\012\011sub one.numr fraction five.dnom by onefifth;\012\011sub two.numr fraction five.dnom by twofifths;\012\011sub three.numr fraction five.dnom by threefifths;\012\011sub four.numr fraction five.dnom by fourfifths;\012\011sub one.numr fraction six.dnom by onesixth;\012\011sub five.numr fraction six.dnom by fivesixths;\012\011sub one.numr fraction seven.dnom by oneseventh;\012\011sub one.numr fraction eight.dnom by oneeighth;\012\011sub three.numr fraction eight.dnom by threeeighths;\012\011sub five.numr fraction eight.dnom by fiveeighths;\012\011sub seven.numr fraction eight.dnom by seveneighths;\012\011sub one.numr fraction nine.dnom by oneninth;";
@@ -693,7 +694,6 @@ name = cpsp;
 },
 {
 code = "script guru;\012language PAN;\012pos hyphen na-gurmukhi' <100 0 100 0>;\012\012script gur2;\012language PAN;\012pos hyphen na-gurmukhi' <100 0 100 0>;";
-disabled = 1;
 name = dist;
 }
 );
@@ -712,7 +712,7 @@ capHeight = 700;
 customParameters = (
 {
 name = hheaAscender;
-value = "739";
+value = 739;
 },
 {
 name = hheaDescender;
@@ -720,11 +720,11 @@ value = "-200";
 },
 {
 name = hheaLineGap;
-value = "455";
+value = 455;
 },
 {
 name = typoAscender;
-value = "739";
+value = 739;
 },
 {
 name = typoDescender;
@@ -732,15 +732,15 @@ value = "-200";
 },
 {
 name = typoLineGap;
-value = "455";
+value = 455;
 },
 {
 name = winAscent;
-value = "1075";
+value = 1075;
 },
 {
 name = winDescent;
-value = "380";
+value = 380;
 }
 );
 descender = -400;
@@ -41670,7 +41670,7 @@ unicode = 2013;
 {
 color = 4;
 glyphname = hyphen;
-lastChange = "2015-11-08 19:54:15 +0000";
+lastChange = "2015-11-12 11:25:53 +0000";
 layers = (
 {
 background = {
@@ -50511,7 +50511,7 @@ unicode = 0335;
 {
 color = 4;
 glyphname = T.alt;
-lastChange = "2015-11-10 17:56:15 +0000";
+lastChange = "2015-10-07 20:01:25 +0000";
 layers = (
 {
 anchors = (
@@ -64325,7 +64325,7 @@ unicode = 0A1E;
 {
 color = 0;
 glyphname = "tta-gurmukhi";
-lastChange = "2015-11-08 16:09:58 +0000";
+lastChange = "2015-11-12 11:26:02 +0000";
 layers = (
 {
 anchors = (
@@ -124893,6 +124893,7 @@ question = 30;
 "@MMK_R_Yapost" = -30;
 "@MMK_R_braceright" = 10;
 "@MMK_R_bracketright" = 30;
+"@MMK_R_hyphen" = 20;
 "@MMK_R_na" = -20;
 "@MMK_R_parenright" = 50;
 question = 30;
@@ -125285,6 +125286,7 @@ question = -25;
 "@MMK_R_NyaL" = 20;
 "@MMK_R_Pha" = 20;
 "@MMK_R_T" = -65;
+"@MMK_R_TtaL" = 30;
 "@MMK_R_V" = -25;
 "@MMK_R_Y" = -35;
 "@MMK_R_Z" = -25;
