@@ -1,5 +1,8 @@
 {
 .appVersion = "848";
+DisplayStrings = (
+"A\U00C1"
+);
 classes = (
 {
 code = "braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen guillemetleft guillemetright guilsinglleft guilsinglright questiondown exclamdown";
