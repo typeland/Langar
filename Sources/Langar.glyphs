@@ -27,7 +27,7 @@ code = "aamatra-gurmukhi imatra-gurmukhi iimatra-gurmukhi a-gurmukhi aa-gurmukhi
 name = Gurmukhi;
 }
 );
-copyright = "Copyright © 2016 by Alessia Mazzarella. All rights reserved.";
+copyright = "Copyright 2016 Alessia Mazzarella (www.type.land).";
 customParameters = (
 {
 name = glyphOrder;
@@ -560,6 +560,11 @@ value = "Please read about the license agreement at: http://scripts.sil.org/cms/
 {
 name = vendorID;
 value = TL;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2016-02-13 10:18:43 +0000";
@@ -710,35 +715,35 @@ capHeight = 700;
 customParameters = (
 {
 name = hheaAscender;
-value = 739;
+value = "1085";
 },
 {
 name = hheaDescender;
-value = "-200";
+value = "-390";
 },
 {
 name = hheaLineGap;
-value = 455;
+value = "0";
 },
 {
 name = typoAscender;
-value = 739;
+value = "1085";
 },
 {
 name = typoDescender;
-value = "-200";
+value = "-390";
 },
 {
 name = typoLineGap;
-value = 455;
+value = "0";
 },
 {
 name = winAscent;
-value = 1075;
+value = "1085";
 },
 {
 name = winDescent;
-value = 380;
+value = "390";
 }
 );
 descender = -400;
@@ -117575,5 +117580,5 @@ HV = t;
 };
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
