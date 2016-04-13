@@ -1,5 +1,7 @@
 # Langar
 
+![alt tag](https://github.com/ammazzarella/Langar/blob/master/Documentation/Langar%20Sample.png)
+
 Langar is a one-weight Latin-Gurmukhi display font based on informal, playful letterforms. 
 It broadly follows the ‘upright-italic’ style of Latin fonts, experimenting with and introducing a similar style for the Gurmukhi script. 
 Langar's harmonised Latin-Gurmukhi design aims to expand the possibilities for both the general user and the specialised designer working with bilingual texts by providing a good quality display option. 
