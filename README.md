@@ -9,13 +9,14 @@ The design specifically caters to characterful display at larger sizes, providin
 
 # Installation
 
-Download the latest release ZIP from [github.com/ammazzarella/Langar/releases](https://github.com/ammazzarella/Langar/releases)
+Download the latest release ZIP from [github.com/typeland/Langar/releases](https://github.com/typeland/Langar/releases)
 
 Unzip the file and install **only one** of the font files (OTF or TTF.)
 
 # Typeland
 
 The Langar project is led by Typeland.
+Typeland is an independent type foundry specialising in creating original designs for a wide range of scripts. Taking an utterly indulgent approach, we believe in creating typefaces that we thoroughly enjoy crafting and would greatly enjoy using – in other words, we design unapologetically to remedy boredom and neutrality. Typeland offers retail fonts as well as custom services.
 To learn more, visit [www.type.land](http://www.type.land)
 
 # License
