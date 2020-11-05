@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "1342";
 classes = (
 {
 code = "braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen guillemetleft guillemetright guilsinglleft guilsinglright questiondown exclamdown";
@@ -559,7 +559,7 @@ value = "Please read about the license agreement at: http://scripts.sil.org/cms/
 },
 {
 name = vendorID;
-value = TL;
+value = LAND;
 }
 );
 date = "2016-02-13 10:18:43 +0000";
