@@ -133407,7 +133407,7 @@ unicode = 200C;
 },
 {
 glyphname = rupee;
-lastChange = "2020-11-19 14:52:58 +0000";
+lastChange = "2020-11-19 14:54:37 +0000";
 layers = (
 {
 anchors = (
@@ -133484,7 +133484,7 @@ nodes = (
 width = 584;
 }
 );
-unicode = 20A8;
+unicode = 20B9;
 },
 {
 glyphname = dottedCircle;
