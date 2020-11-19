@@ -27,7 +27,7 @@ code = "aamatra-gurmukhi imatra-gurmukhi iimatra-gurmukhi a-gurmukhi aa-gurmukhi
 name = Gurmukhi;
 }
 );
-copyright = "Copyright © 2016 by Alessia Mazzarella. All rights reserved.";
+copyright = "Copyright 2016 The Langar Project Authors (https://github.com/typeland/Langar)";
 customParameters = (
 {
 name = glyphOrder;
