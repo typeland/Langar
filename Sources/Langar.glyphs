@@ -555,7 +555,11 @@ value = "Langar is a trademark of Alessia Mazzarella";
 },
 {
 name = license;
-value = "Please read about the license agreement at: http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
