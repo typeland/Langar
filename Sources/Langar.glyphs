@@ -133406,6 +133406,87 @@ width = 0;
 unicode = 200C;
 },
 {
+glyphname = rupee;
+lastChange = "2020-11-19 14:52:58 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{270, 0}";
+},
+{
+name = top;
+position = "{270, 700}";
+}
+);
+layerId = "B08EA6CB-0345-4FE8-BF44-53271D6C1876";
+paths = (
+{
+closed = 1;
+nodes = (
+"523 418 LINE",
+"546 452 LINE",
+"543 495 OFFCURVE",
+"538 511 OFFCURVE",
+"532 527 CURVE",
+"92 485 LINE",
+"69 451 LINE",
+"72 428 OFFCURVE",
+"77 412 OFFCURVE",
+"83 396 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"537 701 OFFCURVE",
+"532 717 OFFCURVE",
+"526 733 CURVE",
+"333 712 LINE",
+"279 712 OFFCURVE",
+"228 709 OFFCURVE",
+"168 686 CURVE",
+"144 704 OFFCURVE",
+"105 717 OFFCURVE",
+"87 720 CURVE",
+"58 700 LINE",
+"62 573 LINE",
+"94 564 LINE",
+"179 604 OFFCURVE",
+"262 615 OFFCURVE",
+"329 604 CURVE",
+"337 554 OFFCURVE",
+"347 438 OFFCURVE",
+"339 343 CURVE",
+"170 307 LINE",
+"80 307 LINE",
+"72 250 LINE",
+"83 217 LINE",
+"251 225 LINE",
+"304 49 LINE",
+"338 14 OFFCURVE",
+"390 -9 OFFCURVE",
+"428 -16 CURVE",
+"477 26 LINE",
+"344 248 LINE",
+"460 342 LINE",
+"465 557 LINE",
+"453 595 OFFCURVE",
+"431 631 OFFCURVE",
+"404 661 CURVE",
+"367 633 LINE",
+"517 624 LINE",
+"540 658 LINE"
+);
+}
+);
+width = 584;
+}
+);
+unicode = 20A8;
+},
+{
 glyphname = dottedCircle;
 lastChange = "2016-08-09 15:24:27 +0000";
 layers = (
