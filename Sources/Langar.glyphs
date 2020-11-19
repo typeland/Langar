@@ -3708,7 +3708,7 @@ nodes = (
 );
 };
 layerId = "8E3BC4A1-C112-4235-950D-9347FABFB047";
-name = "Regular Sep 3 15, 17:28";
+name = "Regular Sep 3 15, 17:29";
 paths = (
 {
 closed = 1;
@@ -10199,7 +10199,7 @@ unicode = 006A;
 {
 color = 4;
 glyphname = k;
-lastChange = "2016-08-09 15:24:24 +0000";
+lastChange = "2020-11-19 14:18:12 +0000";
 layers = (
 {
 anchors = (
@@ -11297,7 +11297,7 @@ nodes = (
 );
 };
 layerId = "1FEB747F-D92A-4287-A35F-651480211640";
-name = "Regular Jul 15 15, 17:41";
+name = "Regular Jul 15 15, 17:42";
 paths = (
 {
 closed = 1;
@@ -11839,7 +11839,7 @@ unicode = 006C;
 {
 color = 4;
 glyphname = m;
-lastChange = "2016-08-09 15:24:24 +0000";
+lastChange = "2020-11-19 14:18:32 +0000";
 layers = (
 {
 anchors = (
@@ -12311,7 +12311,7 @@ nodes = (
 );
 };
 layerId = "217E19BF-847E-48C6-AB8B-FF65E177A894";
-name = "Regular Jul 12 15, 20:26";
+name = "Regular Jul 12 15, 20:27";
 paths = (
 {
 closed = 1;
@@ -12956,7 +12956,7 @@ unicode = 006D;
 {
 color = 4;
 glyphname = n;
-lastChange = "2016-08-09 15:24:24 +0000";
+lastChange = "2020-11-19 14:18:56 +0000";
 layers = (
 {
 anchors = (
@@ -13675,7 +13675,7 @@ nodes = (
 );
 };
 layerId = "8F0D1E5B-0797-4975-A1A1-EB7104BDF81C";
-name = "Regular Jul 12 15, 20:02";
+name = "Regular Jul 12 15, 20:03";
 paths = (
 {
 closed = 1;
@@ -13789,7 +13789,7 @@ nodes = (
 );
 };
 layerId = "CA59ACD2-EA73-496C-9B5E-A7BD2AA77183";
-name = "Regular Jul 12 15, 20:02";
+name = "Regular Jul 12 15, 20:04";
 paths = (
 {
 closed = 1;
@@ -33902,7 +33902,7 @@ unicode = 014D;
 {
 color = 9;
 glyphname = oslash;
-lastChange = "2016-08-09 15:24:25 +0000";
+lastChange = "2020-11-19 14:19:14 +0000";
 layers = (
 {
 anchors = (
@@ -34500,7 +34500,7 @@ nodes = (
 );
 };
 layerId = "FA4236C5-BD67-4D68-B6D5-CAFC56C6BA76";
-name = "Regular Sep 27 15, 12:36";
+name = "Regular Sep 27 15, 12:37";
 paths = (
 {
 closed = 1;
@@ -34883,7 +34883,7 @@ unicode = 0153;
 {
 color = 7;
 glyphname = thorn;
-lastChange = "2016-08-09 15:24:25 +0000";
+lastChange = "2020-11-19 14:19:30 +0000";
 layers = (
 {
 background = {
@@ -35203,7 +35203,7 @@ nodes = (
 );
 };
 layerId = "EB411F42-5CCF-45AD-9038-198E89C5E845";
-name = "Regular Sep 27 15, 18:57";
+name = "Regular Sep 27 15, 18:58";
 paths = (
 {
 closed = 1;
@@ -47507,7 +47507,7 @@ unicode = 0033;
 {
 color = 3;
 glyphname = four;
-lastChange = "2016-08-09 15:24:25 +0000";
+lastChange = "2020-11-19 14:19:46 +0000";
 layers = (
 {
 background = {
@@ -47787,7 +47787,7 @@ nodes = (
 );
 };
 layerId = "2E32E0A0-5731-4432-8916-DC9CE93DE4B8";
-name = "Regular Sep 6 15, 16:31";
+name = "Regular Sep 6 15, 16:32";
 paths = (
 {
 closed = 1;
@@ -65597,7 +65597,7 @@ rightKerningGroup = T;
 {
 color = 4;
 glyphname = o.ss01;
-lastChange = "2016-08-09 15:24:26 +0000";
+lastChange = "2020-11-19 14:20:01 +0000";
 layers = (
 {
 background = {
@@ -65910,7 +65910,7 @@ nodes = (
 );
 };
 layerId = "6F532FB4-27E3-4290-AC29-C23217F14611";
-name = "Regular Sep 27 15, 12:33";
+name = "Regular Sep 27 15, 12:34";
 paths = (
 {
 closed = 1;
@@ -68548,7 +68548,7 @@ leftMetricsKey = n;
 color = 2;
 export = 0;
 glyphname = q.ss01;
-lastChange = "2016-08-09 15:24:26 +0000";
+lastChange = "2020-11-19 14:20:17 +0000";
 layers = (
 {
 background = {
@@ -68980,7 +68980,7 @@ nodes = (
 );
 };
 layerId = "AD54AE75-B8C6-46C1-B915-F64DB4A277B2";
-name = "Regular Jul 15 15, 21:13";
+name = "Regular Jul 15 15, 21:14";
 paths = (
 {
 closed = 1;
@@ -69338,7 +69338,7 @@ rightMetricsKey = t;
 {
 color = 0;
 glyphname = "a-gurmukhi";
-lastChange = "2016-08-09 15:24:26 +0000";
+lastChange = "2020-11-19 14:21:11 +0000";
 layers = (
 {
 anchors = (
@@ -72217,7 +72217,7 @@ nodes = (
 );
 };
 layerId = "E5DC04D1-BF31-45BE-AE41-13D56C079DBB";
-name = "Regular Jul 13 15, 21:02";
+name = "Regular Jul 13 15, 21:03";
 paths = (
 {
 closed = 1;
@@ -74539,7 +74539,7 @@ unicode = 0A14;
 {
 color = 0;
 glyphname = "ka-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:22:15 +0000";
 layers = (
 {
 anchors = (
@@ -74889,7 +74889,7 @@ nodes = (
 );
 };
 layerId = "BDB0F4CE-A319-445B-B2B9-0B3F79ADB8EA";
-name = "Regular Aug 30 15, 17:06";
+name = "Regular Aug 30 15, 17:05";
 paths = (
 {
 closed = 1;
@@ -75278,7 +75278,7 @@ nodes = (
 );
 };
 layerId = "000F14BC-811A-4437-9841-658809D11928";
-name = "Regular Sep 19 15, 12:27";
+name = "Regular Sep 19 15, 12:28";
 paths = (
 {
 closed = 1;
@@ -76797,7 +76797,7 @@ unicode = 0A19;
 {
 color = 9;
 glyphname = "ca-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:22:30 +0000";
 layers = (
 {
 anchors = (
@@ -77152,7 +77152,7 @@ nodes = (
 );
 };
 layerId = "F8D4E183-5A14-4760-ABA1-C5353658515A";
-name = "Regular Jul 19 15, 20:31";
+name = "Regular Jul 19 15, 20:32";
 paths = (
 {
 closed = 1;
@@ -79856,7 +79856,7 @@ unicode = 0A1E;
 {
 color = 0;
 glyphname = "tta-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:22:43 +0000";
 layers = (
 {
 anchors = (
@@ -80273,7 +80273,7 @@ nodes = (
 );
 };
 layerId = "A442E155-478B-4AC6-AB7E-3CB7818B378F";
-name = "Regular Sep 19 15, 13:32";
+name = "Regular Sep 19 15, 13:33";
 paths = (
 {
 closed = 1;
@@ -86525,7 +86525,7 @@ unicode = 0A26;
 {
 color = 2;
 glyphname = "dha-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:23:00 +0000";
 layers = (
 {
 associatedMasterId = "B08EA6CB-0345-4FE8-BF44-53271D6C1876";
@@ -87684,7 +87684,7 @@ nodes = (
 );
 };
 layerId = "4D9EFB29-D871-4FD3-8B8F-A40EEBF78EA1";
-name = "Regular Jul 20 15, 22:23";
+name = "Regular Jul 20 15, 22:24";
 paths = (
 {
 closed = 1;
@@ -93873,7 +93873,7 @@ unicode = 0A2C;
 },
 {
 glyphname = "bha-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:23:17 +0000";
 layers = (
 {
 anchors = (
@@ -95076,7 +95076,7 @@ nodes = (
 );
 };
 layerId = "460EBAC6-0006-42BD-942B-96C6855C23BB";
-name = "Regular Sep 19 15, 15:34";
+name = "Regular Sep 19 15, 15:35";
 paths = (
 {
 closed = 1;
@@ -95509,7 +95509,7 @@ unicode = 0A2E;
 {
 color = 2;
 glyphname = "ya-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:23:41 +0000";
 layers = (
 {
 anchors = (
@@ -96148,7 +96148,7 @@ nodes = (
 );
 };
 layerId = "67E0EBD0-B050-413F-B49E-478D687CA4C9";
-name = "Regular Aug 6 15, 12:37";
+name = "Regular Aug 6 15, 12:38";
 paths = (
 {
 closed = 1;
@@ -97646,7 +97646,7 @@ unicode = 0A30;
 {
 color = 1;
 glyphname = "la-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:25:16 +0000";
 layers = (
 {
 anchors = (
@@ -97843,7 +97843,7 @@ width = 684;
 {
 associatedMasterId = "B08EA6CB-0345-4FE8-BF44-53271D6C1876";
 layerId = "CDC1E9FE-EF1A-4A8D-A1A0-2D3C8B5DC3DB";
-name = "Regular Aug 2 15, 15:20";
+name = "Regular Aug 2 15, 15:21";
 paths = (
 {
 closed = 1;
@@ -97938,7 +97938,7 @@ nodes = (
 );
 };
 layerId = "9D789D39-AC83-4058-9A91-F53B231E6398";
-name = "Regular Aug 2 15, 15:23";
+name = "Regular Aug 2 15, 15:22";
 paths = (
 {
 closed = 1;
@@ -98022,7 +98022,7 @@ nodes = (
 );
 };
 layerId = "81A0036E-E1E6-40C6-BC24-4002BDAD8049";
-name = "Regular Aug 2 15, 15:24";
+name = "Regular Aug 2 15, 15:23";
 paths = (
 {
 closed = 1;
@@ -99102,7 +99102,7 @@ nodes = (
 );
 };
 layerId = "A06C1ADC-A94C-41C6-8B85-61ABEFA7E4D2";
-name = "Regular Aug 2 15, 16:56";
+name = "Regular Aug 2 15, 16:51";
 paths = (
 {
 closed = 1;
@@ -99243,7 +99243,7 @@ nodes = (
 );
 };
 layerId = "6E9CD3F0-5D07-4592-B5EB-802490952B87";
-name = "Regular Aug 2 15, 16:58";
+name = "Regular Aug 2 15, 16:52";
 paths = (
 {
 closed = 1;
@@ -99387,7 +99387,7 @@ nodes = (
 );
 };
 layerId = "7CBA6745-13DD-4E60-9567-D5A18B719401";
-name = "Regular Aug 2 15, 16:58";
+name = "Regular Aug 2 15, 16:53";
 paths = (
 {
 closed = 1;
@@ -105124,7 +105124,7 @@ unicode = 0A5E;
 {
 color = 6;
 glyphname = "iri-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:27:03 +0000";
 layers = (
 {
 anchors = (
@@ -105966,7 +105966,7 @@ nodes = (
 );
 };
 layerId = "7DBCDF42-00AA-42DE-9FF4-4CA9B8FF9C96";
-name = "Regular Jul 14 15, 12:23";
+name = "Regular Jul 14 15, 12:21";
 paths = (
 {
 closed = 1;
@@ -106139,7 +106139,7 @@ nodes = (
 );
 };
 layerId = "DAAF708C-7578-4C69-8BFA-81B8D745FE92";
-name = "Regular Jul 14 15, 12:29";
+name = "Regular Jul 14 15, 12:22";
 paths = (
 {
 closed = 1;
@@ -106313,7 +106313,7 @@ nodes = (
 );
 };
 layerId = "329F5A4D-AE28-4F31-875C-FA342AB87C19";
-name = "Regular Jul 14 15, 12:29";
+name = "Regular Jul 14 15, 12:23";
 paths = (
 {
 closed = 1;
@@ -107211,7 +107211,7 @@ nodes = (
 );
 };
 layerId = "3B794A6B-4F9D-4A63-8ED5-8429A4D9565E";
-name = "Regular Aug 11 15, 19:24";
+name = "Regular Aug 11 15, 19:23";
 paths = (
 {
 closed = 1;
@@ -107591,7 +107591,7 @@ nodes = (
 );
 };
 layerId = "0CD32A19-F844-4F82-84ED-0E0B8096FA71";
-name = "Regular Aug 18 15, 22:27";
+name = "Regular Aug 18 15, 22:21";
 paths = (
 {
 closed = 1;
@@ -107777,7 +107777,7 @@ nodes = (
 );
 };
 layerId = "26A64CC5-A699-4377-8B9F-3E1E551FBCC9";
-name = "Regular Aug 18 15, 22:27";
+name = "Regular Aug 18 15, 22:22";
 paths = (
 {
 closed = 1;
@@ -107963,7 +107963,7 @@ nodes = (
 );
 };
 layerId = "EEE1052F-1FEB-4AE8-A94B-8A7BD99D13B8";
-name = "Regular Aug 18 15, 22:27";
+name = "Regular Aug 18 15, 22:23";
 paths = (
 {
 closed = 1;
@@ -108752,7 +108752,7 @@ unicode = 0A72;
 },
 {
 glyphname = "ura-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:27:30 +0000";
 layers = (
 {
 anchors = (
@@ -111554,7 +111554,7 @@ nodes = (
 );
 };
 layerId = "6E6B3210-CF88-4D02-9027-5FE4F8D46156";
-name = "Regular Aug 16 15, 18:46";
+name = "Regular Aug 16 15, 18:41";
 paths = (
 {
 closed = 1;
@@ -111705,7 +111705,7 @@ nodes = (
 );
 };
 layerId = "66EB9C96-D500-4AB7-AF57-EA73FC4533B8";
-name = "Regular Aug 16 15, 18:46";
+name = "Regular Aug 16 15, 18:42";
 paths = (
 {
 closed = 1;
@@ -111856,7 +111856,7 @@ nodes = (
 );
 };
 layerId = "9EC7010B-5CB8-4A64-9D2E-E480340BA9F6";
-name = "Regular Aug 16 15, 18:47";
+name = "Regular Aug 16 15, 18:43";
 paths = (
 {
 closed = 1;
@@ -114934,7 +114934,7 @@ rightKerningGroup = NgaR;
 {
 color = 0;
 glyphname = "tta-gurmukhi.long";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:27:44 +0000";
 layers = (
 {
 anchors = (
@@ -115351,7 +115351,7 @@ nodes = (
 );
 };
 layerId = "A442E155-478B-4AC6-AB7E-3CB7818B378F";
-name = "Regular Sep 19 15, 13:32";
+name = "Regular Sep 19 15, 13:33";
 paths = (
 {
 closed = 1;
@@ -120028,7 +120028,7 @@ rightKerningGroup = PhaR;
 },
 {
 glyphname = "bha-gurmukhi.long";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:28:02 +0000";
 layers = (
 {
 anchors = (
@@ -121231,7 +121231,7 @@ nodes = (
 );
 };
 layerId = "460EBAC6-0006-42BD-942B-96C6855C23BB";
-name = "Regular Sep 19 15, 15:34";
+name = "Regular Sep 19 15, 15:35";
 paths = (
 {
 closed = 1;
@@ -122562,7 +122562,7 @@ rightKerningGroup = Vert;
 {
 color = 1;
 glyphname = "la-gurmukhi.long";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:28:53 +0000";
 layers = (
 {
 anchors = (
@@ -122759,7 +122759,7 @@ width = 804;
 {
 associatedMasterId = "B08EA6CB-0345-4FE8-BF44-53271D6C1876";
 layerId = "CDC1E9FE-EF1A-4A8D-A1A0-2D3C8B5DC3DB";
-name = "Regular Aug 2 15, 15:20";
+name = "Regular Aug 2 15, 15:21";
 paths = (
 {
 closed = 1;
@@ -122854,7 +122854,7 @@ nodes = (
 );
 };
 layerId = "9D789D39-AC83-4058-9A91-F53B231E6398";
-name = "Regular Aug 2 15, 15:23";
+name = "Regular Aug 2 15, 15:22";
 paths = (
 {
 closed = 1;
@@ -122938,7 +122938,7 @@ nodes = (
 );
 };
 layerId = "81A0036E-E1E6-40C6-BC24-4002BDAD8049";
-name = "Regular Aug 2 15, 15:24";
+name = "Regular Aug 2 15, 15:23";
 paths = (
 {
 closed = 1;
@@ -124018,7 +124018,7 @@ nodes = (
 );
 };
 layerId = "A06C1ADC-A94C-41C6-8B85-61ABEFA7E4D2";
-name = "Regular Aug 2 15, 16:56";
+name = "Regular Aug 2 15, 16:51";
 paths = (
 {
 closed = 1;
@@ -124159,7 +124159,7 @@ nodes = (
 );
 };
 layerId = "6E9CD3F0-5D07-4592-B5EB-802490952B87";
-name = "Regular Aug 2 15, 16:58";
+name = "Regular Aug 2 15, 16:52";
 paths = (
 {
 closed = 1;
@@ -124303,7 +124303,7 @@ nodes = (
 );
 };
 layerId = "7CBA6745-13DD-4E60-9567-D5A18B719401";
-name = "Regular Aug 2 15, 16:58";
+name = "Regular Aug 2 15, 16:53";
 paths = (
 {
 closed = 1;
@@ -128169,7 +128169,7 @@ rightKerningGroup = Vert;
 },
 {
 glyphname = "aamatra-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:29:09 +0000";
 layers = (
 {
 anchors = (
@@ -128363,7 +128363,7 @@ nodes = (
 );
 };
 layerId = "66D7977E-A233-4FEF-92F0-0594989EDF73";
-name = "Regular Jul 13 15, 15:57";
+name = "Regular Jul 13 15, 15:58";
 paths = (
 {
 closed = 1;
@@ -129506,7 +129506,7 @@ unicode = 0A66;
 {
 color = 2;
 glyphname = "one-gurmukhi";
-lastChange = "2016-08-09 15:24:27 +0000";
+lastChange = "2020-11-19 14:29:23 +0000";
 layers = (
 {
 background = {
@@ -129939,7 +129939,7 @@ nodes = (
 );
 };
 layerId = "14EDA429-166C-4D20-B6BF-6661E6F755C6";
-name = "Regular Sep 19 15, 13:39";
+name = "Regular Sep 19 15, 13:40";
 paths = (
 {
 closed = 1;
