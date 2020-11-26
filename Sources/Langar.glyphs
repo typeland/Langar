@@ -696,6 +696,7 @@ name = cpsp;
 },
 {
 code = "script guru;\012language PAN;\012pos hyphen na-gurmukhi' <100 0 100 0>;\012\012script gur2;\012language PAN;\012pos hyphen na-gurmukhi' <100 0 100 0>;";
+disabled = 1;
 name = dist;
 }
 );
@@ -139852,6 +139853,9 @@ i = {
 asterisk = -30;
 backslash = -65;
 };
+"iMatra-gurmukhi.alt" = {
+"@MMK_R_quoteright" = 60;
+};
 iacute = {
 "@MMK_R_T" = -20;
 "@MMK_R_braceright" = -5;
@@ -139884,9 +139888,6 @@ imacron = {
 "@MMK_R_quote" = 10;
 "@MMK_R_quoteleft" = -10;
 "@MMK_R_quoteright" = -20;
-};
-"iMatra-gurmukhi.alt" = {
-"@MMK_R_quoteright" = 60;
 };
 iogonek = {
 "@MMK_R_T" = -50;
